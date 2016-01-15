@@ -1,4 +1,4 @@
-# resources
+# Github资源收集
 <div>                    
 <p>Github上已经给别人点了很多赞了，觉得有必要开始整理起来。这里用于整理我在Github中的starred项目，方便之后检索 ，同时分享出来。本文将会不断更新和整理。</p>
 <hr>
