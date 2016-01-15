@@ -265,7 +265,7 @@
 	<li><p><a href="https://github.com/AlloyTeam/AlloyStick" target="_blank">AlloyStick 骨骼动画</a></p></li>
 	<li><p><a href="https://github.com/hexojs/hexo" target="_blank">hexo</a></p></li>
 </ul>
-<h2 id="articleHeader20">jQuery源码分析系列</h2>
+<h2 id="articleHeader20">jQuery</h2>
 <ul>
 	<li><a href="http://www.cnblogs.com/aaronjs/p/3279314.html" target="_blank">jQuery源码分析系列--blog</a></li>
 	<li><a href="https://github.com/jsAaron" target="_blank">jQuery源码作者Github</a></li>
