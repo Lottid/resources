@@ -1,7 +1,7 @@
 # Github资源收集
+<p>文章来源：<a href="http://segmentfault.com/a/1190000003510001" target="_blank">Github资源收集---segmentfault</a></p>
 <div>                    
 <h2 id="articleHeader0">HTML/CSS</h2>
-<p>文章来源：<a href="http://segmentfault.com/a/1190000003510001" target="_blank">Github资源收集---segmentfault</a></p>
 <ul>
 	<li><p><a href="https://github.com/h5bp/html5-boilerplate" target="_blank">html5-boilerplate</a></p></li>
 	<li><p><a href="https://github.com/remy/html5demos" target="_blank">html5demos</a></p></li>
