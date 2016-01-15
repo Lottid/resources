@@ -1,14 +1,5 @@
 # Github资源收集
 <div>                    
-<p>Github上已经给别人点了很多赞了，觉得有必要开始整理起来。这里用于整理我在Github中的starred项目，方便之后检索 ，同时分享出来。本文将会不断更新和整理。</p>
-<hr>
-<p>9/8 更新：</p>
-<ul>
-<li><p>增加<strong>shim/polyfill</strong>板块并整理，添加了core-js</p></li>
-<li><p>增加了html2canvas</p></li>
-<li><p>新增了react-transform-boilerplate，算是新版的hot-loader吧，不再使用<code>react-hot-loader</code>，而使用一个babel插件<code>babel-plugin-react-transform</code></p></li>
-</ul>
-<hr>
 <h2 id="articleHeader0">HTML/CSS</h2>
 <ul>
 <li><p><a href="https://github.com/h5bp/html5-boilerplate" target="_blank">html5-boilerplate</a></p></li>
